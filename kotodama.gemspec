@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["phi2dao"]
   spec.email         = ["orgodemir.v@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
+  spec.summary       = %q{Word generation library for Ruby}
   spec.homepage      = "https://github.com/phi2dao/kotodama"
   spec.license       = "MIT"
 
